@@ -29,11 +29,18 @@ the most extended ride duration.
 - The median ride is 511 seconds, and the average ride is 704 seconds. Durations
 of rides take on a vast range of values, from 61 seconds at the lowest to 84548
 seconds at the highest.
+<img width="818" alt="image" src="https://user-images.githubusercontent.com/84743536/149000169-55c1d750-34f9-40be-b709-2590d582a40e.png">
+
 - The major part of each gender is the "Subscriber" user type. Also, males make
 up 75% of all users.
+<img width="809" alt="image" src="https://user-images.githubusercontent.com/84743536/149000320-9267bd66-c7de-4890-984c-ced5ed5b1f68.png">
+
 - Users in 30 years made the most significant number of long rides.
+<img width="777" alt="image" src="https://user-images.githubusercontent.com/84743536/149000401-653ed452-d265-4f05-9801-8adddf3ab0dd.png">
+
 - The "Customer" average ride duration is 1310 seconds, and the
 average "Subscriber" duration of ride equals 640 seconds.
+<img width="762" alt="image" src="https://user-images.githubusercontent.com/84743536/149000458-291da730-0fc9-473b-b478-b684cfa57386.png">
 
 ## Limitation
 The main limitation of the data set is that it is only one month data. We can't make a
